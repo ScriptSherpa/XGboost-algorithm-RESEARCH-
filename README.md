@@ -1,4 +1,4 @@
-# 🚀 Optimizing XGBoost for High-Dimensional Text Data  
+# 🚀 Optimizing XGBoost for High-Dimensional Text Data paper
 
 ## 📌 Project Overview  
 This research focuses on optimizing **XGBoost** for **high-dimensional text classification** using the **20 Newsgroups Dataset**. By implementing **feature selection, dimensionality reduction, and hyperparameter tuning**, we aim to enhance model efficiency, reduce overfitting, and improve generalization.  
