@@ -145,7 +145,7 @@ pip install -r requirements.txt
 
 - **NIKHIL RAMCHANDRA MALVI**
 - GitHub: https://github.com/ScriptSherpa
-- linkedin: https://www.linkedin.com/in/gc-nikhil-malvi-757647241/GC
+- linkedin: https://www.linkedin.com/in/gc-nikhil-malvi-757647241/
 
 ---
 
