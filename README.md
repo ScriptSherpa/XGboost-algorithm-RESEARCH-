@@ -143,9 +143,9 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 
-- **Your Name**
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn / Twitter: Optional
+- **NIKHIL RAMCHANDRA MALVI**
+- GitHub: https://github.com/ScriptSherpa
+- linkedin: https://www.linkedin.com/in/gc-nikhil-malvi-757647241/GC
 
 ---
 
